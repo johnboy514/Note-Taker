@@ -8,6 +8,6 @@ app.use(express.static('public'));
 
 require('./routes/routes')(app);
 
-app.listen(PORT, () =>
+app.listen(process.env.PORT || 3000, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
 );
