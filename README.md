@@ -13,7 +13,7 @@ This project was used to further my understanding of routes and heroku
 
 ## Installation
 
-To use this project the user needs download the project and open it in vscode. then the user needs to open the terminal for the project and type "npm start" into the terminal then open http://localhost:3000. it can also be reached on github live pages from this link https://johnboy514.github.io/Work-Scheduler/ and on this heroku link https://note-taker-app-best.herokuapp.com/notes
+To use this project the user needs download the project and open it in vscode. then the user needs to open the terminal for the project and type "npm start" into the terminal then open http://localhost:3000. it can also be reached on this heroku link https://note-taker-app-best.herokuapp.com/notes
 
 ## Usage
 
